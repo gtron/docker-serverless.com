@@ -7,10 +7,8 @@ This image containing NodeJS, the Serverless Framework and the AWS-Cli.
 
 
 
-## Plugins
+## Installed Node Modules
 
- - serverless-plugin-optimize 
- - serverless-aws-documentation
  - serverless-plugin-typescript typescript 
  - serverless-offline serverless-offline-ssm (https://serverless.com/plugins/serverless-offline-ssm/)
  - serverless-resources-env (https://serverless.com/plugins/serverless-resources-env/)
