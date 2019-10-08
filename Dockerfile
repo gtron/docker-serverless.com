@@ -21,7 +21,8 @@ RUN \
     # https://serverless.com/plugins/serverless-apigateway-plugin/
     npm install --save serverless-apigateway-plugin &&  \
     # https://serverless.com/plugins/serverless-plugin-elastic-beanstalk/
-    npm install --save serverless-plugin-elastic-beanstalk
-
+    npm install --save serverless-plugin-elastic-beanstalk && \
+    # https://www.npmjs.com/package/serverless-plugin-git-variables
+    npm install --save  serverless-plugin-git-variables
 
 WORKDIR /opt/app
