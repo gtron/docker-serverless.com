@@ -9,14 +9,7 @@ This image containing NodeJS, the Serverless Framework and the AWS-Cli.
 
 ## Installed Node Modules
 
- - serverless-plugin-typescript typescript 
- - serverless-offline serverless-offline-ssm (https://serverless.com/plugins/serverless-offline-ssm/)
- - serverless-resources-env (https://serverless.com/plugins/serverless-resources-env/)
- - serverless-prune-plugin (https://serverless.com/plugins/serverless-prune-plugin/) 
- - serverless-pseudo-parameters (https://serverless.com/plugins/serverless-pseudo-parameters/)
- - serverless-apigateway-plugin (https://serverless.com/plugins/serverless-apigateway-plugin/)
- - serverless-plugin-elastic-beanstalk (https://serverless.com/plugins/serverless-plugin-elastic-beanstalk/)
- - serverless-plugin-git-variables (https://www.npmjs.com/package/serverless-plugin-git-variables)
+ None. Use master to have installed modules.
 
 
 ## Usage
