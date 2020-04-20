@@ -24,6 +24,7 @@ RUN \
     npm install --save serverless-plugin-elastic-beanstalk && \
     # https://www.npmjs.com/package/serverless-plugin-git-variables
     npm install --save  serverless-plugin-git-variables && \
-    npm install --save serverless-plugin-optimize
+    npm install --save serverless-plugin-optimize && \
+    npm install --save @kingdarboja/serverless-plugin-typescript
 
 WORKDIR /opt/app
