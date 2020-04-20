@@ -18,6 +18,7 @@ This image containing NodeJS, the Serverless Framework and the AWS-Cli.
  - serverless-plugin-elastic-beanstalk (https://serverless.com/plugins/serverless-plugin-elastic-beanstalk/)
  - serverless-plugin-git-variables (https://www.npmjs.com/package/serverless-plugin-git-variables)
  - serverless-plugin-optimize (https://www.npmjs.com/package/serverless-plugin-optimize)
+ - @kingdarboja/serverless-plugin-typescript  (https://github.com/KingDarBoja/serverless-plugin-typescript)
 
 ## Usage
 
