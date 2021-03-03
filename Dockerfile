@@ -1,4 +1,4 @@
-FROM node:lts-alpine 
+FROM node:lts-alpine3.9
 RUN apk --no-cache add python python3 python3-dev py-pip ca-certificates groff less bash make jq curl wget g++ zip git openssh 
 
 RUN pip --no-cache-dir install awscli && \
